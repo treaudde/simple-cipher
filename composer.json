@@ -1,0 +1,15 @@
+{
+    "name": "treaudde/simple-cipher",
+    "authors": [
+        {
+            "name": "Ralph Harris",
+            "email": "ralph@ralphharris3.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {"SimpleCipher\\": "src/"}
+    }
+}
